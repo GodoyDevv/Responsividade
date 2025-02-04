@@ -9,7 +9,7 @@ section {
     & strong {
       display: block;
       font: var(--fw-md) var(--fs-sm)/100% var(--ff-sans);
-      letter-spacing: 0.08rem;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
 
       color: var(--brand-color-primary);
