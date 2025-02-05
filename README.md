@@ -5,7 +5,6 @@ Zingen é um projeto desenvolvido para praticar conceitos de **responsividade** 
 ## Tecnologias Utilizadas
 - **HTML5**
 - **CSS3**
-- **JavaScript (se aplicável)**
 - **Google Fonts**
 
 ## Funcionalidades
@@ -16,15 +15,7 @@ Zingen é um projeto desenvolvido para praticar conceitos de **responsividade** 
 - Seções bem organizadas: Hero, Sobre, Funcionalidades, Preços e Download
 
 ## Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Acesse o diretório do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Abra o arquivo `index.html` no navegador.
+1. Acessar a página na sessão about ao lado.
 
 ## Estrutura do Projeto
 ```
