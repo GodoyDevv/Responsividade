@@ -33,4 +33,4 @@ Zingen é um projeto desenvolvido para praticar conceitos de **responsividade** 
 - Adição de dark mode
 
 ## Autor
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Desenvolvido por [GodoyDevv](https://github.com/GodoyDevv).
